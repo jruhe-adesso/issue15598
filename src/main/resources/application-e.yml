@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    include: dev
+my:
+  property: eValue
+
